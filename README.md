@@ -20,10 +20,10 @@
 Run 'python manage.py migrate' to apply them.` you can ignore them for now.
 - [ ] Quit the server by either closing the terminal window or running `Control C` on macOS
 
-## Windows
+## Linux 
 //TODO
 
-## Linux 
+## Windows
 //TODO
 
 
