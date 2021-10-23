@@ -57,8 +57,6 @@ with an alias for that command to your `.bashrc` file do:
 
 The alias will be available the next time you open a bash session (open a terminal). If you want to have it
 in your current session you will need to source the .bashrc script: `source ~/.bashrc`
-
-Then:
 - To activate the virtual environment run: `activate_converger_app`
 - To deactivate the virtual environment run: `deactivate`
 
